@@ -1,0 +1,10 @@
+{
+    "guild_id": 900000000000000002,
+    "category_id": 444444,
+    "staff_role_id": 555555,
+    "logs_channel_id": 666666,
+    "enabled": false,
+    "blacklist_users": null,
+    "blacklist_roles": null,
+    "setup_completed": null
+}

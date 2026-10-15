@@ -1,0 +1,15 @@
+--- ModMail Ticket Transcript ---
+Guild: VERI.GG (ID: 1513997993408467245)
+Client: draxo3 (ID: 1150835989674209330)
+Closed By: x5cu (ID: 409564774444171265)
+Closed At: 2026-06-13T15:37:31.916250
+---------------------------------
+
+[2026-06-13 15:36:15] Veri Modmail: 
+[Embed: 📂 New Modmail Ticket Created - User **draxo3** has opened a modmail ticket.]
+[2026-06-13 15:36:15] Veri Modmail: <@&1513997993429176411> a new support ticket has been opened.
+[2026-06-13 15:36:54] x5cu: Hello how can i help you
+[2026-06-13 15:37:08] Veri Modmail: Client said: 
+text: this is a test
+[2026-06-13 15:37:21] x5cu: okay gng
+[2026-06-13 15:37:32] Veri Modmail: 
